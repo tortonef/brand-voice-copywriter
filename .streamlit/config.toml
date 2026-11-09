@@ -1,0 +1,17 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = false
+address = "localhost"  # local only: product data never leaves this machine
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#3D5A80"
+backgroundColor = "#F6F1E9"
+secondaryBackgroundColor = "#ECE3D6"
+textColor = "#1F1B24"
+font = "sans serif"

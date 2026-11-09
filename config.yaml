@@ -1,0 +1,16 @@
+# Every key can be overridden with an environment variable:
+# BRAND_VOICE_<SECTION>_<KEY>, e.g. BRAND_VOICE_OLLAMA_MODEL=qwen3.5:9b
+ollama:
+  host: http://localhost:11434
+  model: qwen3.5:4b
+  timeout_s: 300        # the first call loads the model into RAM, which can take a while on CPU
+  temperature: 0.4
+paths:
+  products: data/products.json
+  brands: brands
+  claims: config/claims.yaml
+  schema: schema/product.schema.json
+  samples: data/sample_outputs
+  seeded: data/seeded_violations.json
+  eval_report: docs/eval_results.md
+languages: [en, it, fr]
