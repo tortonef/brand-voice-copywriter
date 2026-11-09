@@ -21,6 +21,7 @@ def test_brand_files_are_complete(brands):
         assert len(brand["tone"]) == 3
         assert all(brand["banned_words"][lang] for lang in LANGS)
         assert brand["length"]["title_max_chars"] <= 60
+        assert brand["length"]["description_sentences"] >= 3
         assert 2 <= len(brand["examples"]) <= 3
 
 

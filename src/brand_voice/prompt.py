@@ -79,9 +79,11 @@ Rules:
 3. Sustainability: mention only what "sustainability_attrs" lists, in its specific wording.
    If it is empty, say nothing about sustainability, ethics or the environment.
 4. title: at most {title_max} characters.
-   description: at least {lo} and at most {hi} words, i.e. about {round((lo + hi) / 30)} full sentences.
-   Cover, in this order: the look and colour, material and fit, the details in "description",
-   then when and how to wear it (occasions, season) and what to pair it with.
+   description: exactly {rules["description_sentences"]} full sentences, at least {lo} and at most {hi} words in total.
+   Sentence plan: 1) the look and colour; 2) material and fit; 3) the details in "description";
+   the remaining sentences: when and how to wear it (occasions, season) and what to pair it with.
+   When you suggest what to pair it with, name garment types and colours, never materials
+   (say "wide jeans", not "denim").
    bullets: exactly 3, each at most {rules["bullet_max_chars"]} characters.
 Answer with JSON only: {{"title": ..., "description": ..., "bullets": [..., ..., ...]}}."""
 

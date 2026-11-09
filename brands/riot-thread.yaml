@@ -24,6 +24,7 @@ banned_words:  # case- and accent-insensitive; a trailing * matches any word end
 length:
   title_max_chars: 45
   description_words: [40, 70]
+  description_sentences: 5  # short sentences, as the tone asks
   bullet_max_chars: 60
 examples:
   - lang: en

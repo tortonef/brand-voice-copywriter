@@ -24,6 +24,7 @@ banned_words:  # case- and accent-insensitive; a trailing * matches any word end
 length:
   title_max_chars: 60
   description_words: [60, 90]
+  description_sentences: 6  # small models count sentences far better than words
   bullet_max_chars: 80
 examples:
   - lang: en

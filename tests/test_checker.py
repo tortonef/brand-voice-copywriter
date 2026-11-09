@@ -70,6 +70,11 @@ def test_description_word_range(good_copy, brands, words, expected):
     assert statuses(check_length(copy, brands["maison-lumen"])) == expected
 
 
+def test_short_description_feedback_is_in_sentences(good_copy, brands):
+    [f] = check_length(with_text(good_copy, " ".join(["word"] * 48)), brands["maison-lumen"])
+    assert "add about 2 full sentences" in f.message
+
+
 def test_bullet_count_must_be_three(good_copy, brands):
     findings = check_length({**good_copy, "bullets": ["a", "b"]}, brands["maison-lumen"])
     assert statuses(findings) == ["fail"]

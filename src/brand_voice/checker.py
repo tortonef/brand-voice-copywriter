@@ -22,6 +22,7 @@ TITLE_HARD_MAX = 60  # catalog limit, whatever the brand allows
 LENGTH_TOLERANCE = (
     0.15  # description up to 15% outside the brand range is a warning, beyond is a fail
 )
+WORDS_PER_SENTENCE = 12  # used only to phrase the revision feedback
 SHORT_TEXT_WORDS = 15  # below this, language detection is unreliable: mismatch is only a warning
 
 
@@ -65,6 +66,12 @@ def _banned_pattern(word: str) -> str:
     return re.escape(word)
 
 
+def _sentences(words: int) -> str:
+    """Express a word gap as sentences: small models follow sentence counts, not word counts."""
+    k = max(1, round(words / WORDS_PER_SENTENCE))
+    return f"{k} full sentence{'s' if k > 1 else ''}"
+
+
 def _length_status(n: int, lo: int, hi: int) -> str:
     if lo <= n <= hi:
         return "pass"
@@ -100,7 +107,8 @@ def check_length(copy: dict, brand: dict) -> list[Finding]:
                 "length",
                 status,
                 f"Description has {n} words (brand range {lo}-{hi}); "
-                f"{'expand' if n < lo else 'shorten'} it to about {(lo + hi) // 2} words.",
+                f"{'add' if n < lo else 'remove'} about {_sentences(abs((lo + hi) // 2 - n))} "
+                f"(aim for about {(lo + hi) // 2} words).",
                 "description",
             )
         )
