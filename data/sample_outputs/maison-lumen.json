@@ -1,0 +1,998 @@
+[
+ {
+  "sku": "ML-0001",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cashmere Crewneck in Camel",
+     "description": "A solid crewneck in fine cashmere, cut with a regular fit that rests comfortably on the shoulders. Ribbed cuffs and hem frame the garment without adding bulk to the silhouette. The camel hue offers a neutral tone suitable for both work and casual settings. It is worn alone or layered under a coat during autumn and winter. This piece maintains its shape through repeated wear.",
+     "bullets": [
+      "Fine-gauge cashmere knit",
+      "Ribbed cuffs and hem",
+      "Regular fit, solid colour"
+     ]
+    },
+    "seconds": 4.94
+   }
+  ]
+ },
+ {
+  "sku": "ML-0001",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tricot Cashmere Camel",
+     "description": "Un tricot a maglia fine di colore camel con un taglio regolare. Le maniche e l'orlo sono finiti con un risvolto elastico. Il tessuto mantiene una superficie liscia e ordinata nel tempo. Si indossa da solo per il lavoro o sotto una giacca in autunno.",
+     "bullets": [
+      "Tricot a maglia fine",
+      "Risvolto elastico su maniche e orlo",
+      "Colore camel, taglio regolare"
+     ]
+    },
+    "seconds": 5.19
+   },
+   {
+    "copy": {
+     "title": "Tricot Cashmere Camel",
+     "description": "Un tricot a maglia fine di colore camel con un taglio regolare. Le maniche e l'orlo sono finiti con un risvolto elastico. Il tessuto mantiene una superficie liscia e ordinata nel tempo. Si indossa da solo per il lavoro o sotto una giacca in autunno. La sua semplicità lo rende adatto anche per momenti più informali, mantenendo sempre linee pulite.",
+     "bullets": [
+      "Tricot a maglia fine",
+      "Risvolto elastico su maniche e orlo",
+      "Colore camel, taglio regolare"
+     ]
+    },
+    "seconds": 5.07
+   }
+  ]
+ },
+ {
+  "sku": "ML-0001",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cashmere Crewneck Camel",
+     "description": "Un pull à col rond dans un ton camel, tissé finement avec du cashmere. La coupe régulière laisse le corps s'installer naturellement sans effort. Les poignets et l'ourlet sont finis en maille élastique pour une tenue soignée. Il se porte seul au bureau ou décontracté le soir en automne. Cette pièce reste silencieuse tout au long de la saison.",
+     "bullets": [
+      "Cashmere, tricot fin",
+      "Col rond, coupe régulière",
+      "Poignets et ourlet maille"
+     ]
+    },
+    "seconds": 5.8
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Silk Slip Dress in Ivory",
+     "description": "This bias-cut dress features a slim fit and thin adjustable straps that fall to midi length. The ivory silk is smooth and drapes cleanly over the body without excess fabric. It maintains a measured silhouette from shoulder to hem with minimal structure. Worn alone for evening events or ceremonies, it offers a quiet presence suitable for spring and summer. The garment requires no embellishment to command attention in its simplicity.",
+     "bullets": [
+      "Bias cut silk",
+      "Thin adjustable straps, midi length",
+      "Slim fit, ivory solid"
+     ]
+    },
+    "seconds": 5.36
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Gonna di seta ivory",
+     "description": "Una gonna in seta color crema con taglio a bias e scollo semplice. La vestibilità è stretta, con maniche regolabili e lunghezza midi. Le linee sono pulite e il tessuto si muove con leggerezza. Si indossa da sola per cene serali o cerimonie estive.",
+     "bullets": [
+      "Seta pura",
+      "Taglio a bias, scollo semplice",
+      "Lunghezza midi"
+     ]
+    },
+    "seconds": 5.14
+   },
+   {
+    "copy": {
+     "title": "Gonna di seta ivory",
+     "description": "Una gonna in seta color crema con taglio a bias e scollo semplice. La vestibilità è stretta, con maniche regolabili e lunghezza midi. Le linee sono pulite e il tessuto si muove con leggerezza. Si indossa da sola per cene serali o cerimonie estive. Il materiale mantiene la sua forma senza bisogno di stirare.",
+     "bullets": [
+      "Seta pura",
+      "Taglio a bias, scollo semplice",
+      "Lunghezza midi"
+     ]
+    },
+    "seconds": 4.66
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Robe de soie en ivoire",
+     "description": "Une robe de couleur ivoire aux lignes épurées et silencieuses. La coupe biais offre une silhouette fine qui suit le corps sans effort. Les bretelles ajustables sont fines, tandis que la longueur midi reste sobre. Elle se porte pour un dîner ou une cérémonie en été. Le tissu léger assure une tenue soignée toute la journée.",
+     "bullets": [
+      "Soie, coupe biais",
+      "Bretelles ajustables, longueur midi",
+      "Idéal soirée et cérémonie"
+     ]
+    },
+    "seconds": 5.03
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tailored Wool Trousers in Charcoal",
+     "description": "These charcoal trousers feature a flat front with a pressed crease that holds its shape. Made from virgin wool, they offer a slim fit that moves cleanly with the body. Side pockets sit discreetly at the hip without adding bulk to the leg line. The fabric is responsibly sourced wool (RWS certified) for enduring quality through autumn and winter. They are worn alone or under a coat during work hours when precision matters most.",
+     "bullets": [
+      "Virgin wool, slim fit",
+      "Flat front, pressed crease",
+      "Responsibly sourced wool (RWS certified)"
+     ]
+    },
+    "seconds": 5.09
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Pantaloni in Lana Grigio Antracite",
+     "description": "Un taglio slim con davanti piatto e piegatura pressata che definisce la linea della gamba. La lana virgin mantiene una superficie liscia senza eccessi di volume, lasciando spazio al movimento. I tasconi laterali sono semplici e integrati nel tessuto senza risalti visivi. Perfetti per il lavoro in autunno o inverno, si abbinano con camicie classiche o giacche strutturate.",
+     "bullets": [
+      "Lana virgin pressata",
+      "Taglio slim, davanti piatto",
+      "Tasconi laterali integrati"
+     ]
+    },
+    "seconds": 5.61
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Trousers en laine charbon",
+     "description": "Des pantalons de coupe slim dans un gris anthracite uni. La matière en laine vierge offre une silhouette soignée et mesurée. Une ceinture plate maintient une ligne nette avec une passe de repassage visible. Les poches latérales sont discrètes, sans ornement ni décor excessif. Ils s'adaptent aux environnements professionnels tout au long des saisons automne et hiver.",
+     "bullets": [
+      "Laine vierge, coupe slim",
+      "Ceinture plate, passe de repassage",
+      "Poches latérales discrètes"
+     ]
+    },
+    "seconds": 5.34
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "White Poplin Shirt",
+     "description": "A white shirt with a semi-spread collar and mother-of-pearl buttons. The organic cotton fabric offers a smooth surface that stays orderly throughout the day. Its regular fit allows for movement without losing its clean lines. It is worn at work or in casual settings from morning until evening. This piece remains appropriate across all seasons.",
+     "bullets": [
+      "Semi-spread collar, mother-of-pearl buttons",
+      "Organic cotton (GOTS certified)",
+      "Regular fit, smooth surface"
+     ]
+    },
+    "seconds": 4.86
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Camicia Poplin Bianca",
+     "description": "Una camicia dal taglio regolare con collo semispread e bottoni di madreperla. Il popline organico ha una superficie liscia che mantiene un aspetto curato per tutta la giornata. La vestibilità misurata si adatta alla silhouette senza appesantire il look. Si porta al lavoro o in occasioni casual durante tutte le stagioni.",
+     "bullets": [
+      "Popline di cotone organico",
+      "Collo semispread, bottoni madreperla",
+      "Vestibilità regolare"
+     ]
+    },
+    "seconds": 5.45
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Chemise en coton bio blanc",
+     "description": "Une chemise blanche avec un col semi-détendu et des boutons de nacre. Le coton biologique offre une coupe régulière et une surface lisse. La texture reste soignée lors d'un port quotidien ou professionnel. Elle se porte seule pour le travail ou décontractée en occasion informelle. Cette pièce s'adapte à toutes les saisons grâce à sa matière légère.",
+     "bullets": [
+      "Coton bio GOTS certifié",
+      "Col semi-détendu, boutons nacre",
+      "Coupe régulière, coupe droite"
+     ]
+    },
+    "seconds": 5.14
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Linen Wrap Skirt in Sand",
+     "description": "A wrap skirt in sand features a tie-front closure and falls below the knee. The linen fabric offers a relaxed fit that drapes softly over the hips. A simple knot at the waist defines the silhouette without drawing attention. It is worn casually during spring and summer travel days. This piece moves with ease while maintaining a clean, structured line.",
+     "bullets": [
+      "Wrap front with tie at waist",
+      "Below-the-knee length in linen",
+      "Relaxed fit for casual wear"
+     ]
+    },
+    "seconds": 4.92
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Gonna Wrap in Sand",
+     "description": "Una gonna di colore sabbia con un taglio rilassato e una lunghezza sotto il ginocchio. Il tessuto di lino si piega naturalmente, mantenendo linee pulite senza sforzo. La chiusura a vita con cerniera permette di regolare la forma del corpo. È ideale per usi casual o durante i viaggi in estate.",
+     "bullets": [
+      "Lino naturale",
+      "Chiave a vita regolabile",
+      "Lunghezza sotto il ginocchio"
+     ]
+    },
+    "seconds": 5.17
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jupe en lin de couleur sable",
+     "description": "Une jupe wrap en lin naturel, d'une longueur au-dessus du genou et d'un coup large. Le devant se noue à la taille pour un ajustement souple qui ne contraint pas le mouvement. Les lignes sont nettes et le tissu garde sa texture propre toute la journée. Elle s'habille seule avec une chemise simple ou sous une veste légère. Idéale pour les journées de printemps ou les séjours en déplacement.",
+     "bullets": [
+      "Lin naturel, coupe large",
+      "Fermeture par nœud à la taille",
+      "Longueur au-dessus du genou"
+     ]
+    },
+    "seconds": 5.37
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Double-Faced Coat in Navy",
+     "description": "A navy coat with a relaxed cut and solid pattern. The wool and cashmere blend sits softly on the frame. Bound edges and concealed buttons define the clean finish. It is worn alone at work or under a dress for ceremony. This piece remains appropriate from autumn through winter.",
+     "bullets": [
+      "Wool and cashmere blend",
+      "Bound edges, concealed buttons",
+      "Relaxed fit, solid navy"
+     ]
+    },
+    "seconds": 4.57
+   },
+   {
+    "copy": {
+     "title": "Double-Faced Coat in Navy",
+     "description": "A navy coat with a relaxed cut and solid pattern. The wool and cashmere blend sits softly on the frame. Bound edges and concealed buttons define the clean finish. It is worn alone at work or under a dress for ceremony. This piece remains appropriate from autumn through winter. Its understated presence ensures it endures across seasons.",
+     "bullets": [
+      "Wool and cashmere blend",
+      "Bound edges, concealed buttons",
+      "Relaxed fit, solid navy"
+     ]
+    },
+    "seconds": 4.55
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cappotto a doppio tessuto blu navy",
+     "description": "Una giacca a doppio tessuto in tonalità blu navy dal taglio rilassato. Il corpo è lavorato con lana e cashmere, con bordi finiti e bottoni nascosti. La superficie liscia mantiene un aspetto ordinato anche sotto un cappello o una borsa di pelle. Si indossa per il lavoro o per cerimonie durante l'autunno e l'inverno. Rimane silenziosa nel movimento senza bisogno di accenti.",
+     "bullets": [
+      "Tessuto doppio in lana e cashmere",
+      "Bordi finiti, bottoni nascosti",
+      "Taglio rilassato per autunno/inverno"
+     ]
+    },
+    "seconds": 5.81
+   },
+   {
+    "copy": {
+     "title": "Cappotto a doppio tessuto blu navy",
+     "description": "Una giacca a doppio tessuto in tonalità blu navy dal taglio rilassato. Il corpo è lavorato con lana e cashmere, con bordi finiti e bottoni nascosti. La superficie liscia mantiene un aspetto ordinato anche sotto un cappello o una borsa di stoffa. Si indossa per il lavoro o per cerimonie durante l'autunno e l'inverno. Rimane silenziosa nel movimento senza bisogno di accenti.",
+     "bullets": [
+      "Tessuto doppio in lana e cashmere",
+      "Bordi finiti, bottoni nascosti",
+      "Taglio rilassato per autunno/inverno"
+     ]
+    },
+    "seconds": 5.34
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Manteau double face bleu",
+     "description": "Une veste en laine et cachemire, teinte bleue foncée avec des lignes nettes. Le tissu est épais mais léger, coupé de manière détendue pour une silhouette reposée. Les bords sont finis par un ourlet discret qui cache les boutons invisibles. Elle se porte en automne ou hiver, seule ou sous une écharpe fine. Ce manteau convient aussi au travail et à des moments solennels.",
+     "bullets": [
+      "Laine et cachemire",
+      "Bords finis, boutons cachés",
+      "Coupe détendue"
+     ]
+    },
+    "seconds": 5.29
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cognac Structured Tote",
+     "description": "A structured tote in cognac leather with clean lines and a regular fit. The surface remains smooth while holding a 14-inch laptop securely. An inner zip pocket organizes essentials for daily use. It travels well from office floors to transit without losing its shape. This piece serves as a reliable companion through all seasons.",
+     "bullets": [
+      "Cognac leather, solid pattern",
+      "Fits 14-inch laptop with zip pocket",
+      "Regular fit, structured silhouette"
+     ]
+    },
+    "seconds": 4.75
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tote Cognac Strutturato",
+     "description": "Una borsa in pelle color noccola dal taglio regolare e linee pulite. La superficie è liscia, senza dettagli superflui o finiture eccessive. Si porta con un abito di lavoro o durante i viaggi, mantenendo una presenza discreta. È adatta a tutte le stagioni grazie alla sua versatilità. Il design rimane intatto nel tempo.",
+     "bullets": [
+      "Pelle color noccola",
+      "Taglio regolare, linee pulite",
+      "Porta per laptop da 14 pollici"
+     ]
+    },
+    "seconds": 5.37
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Sac Tote Structuré en Cognac",
+     "description": "Une tote solide dans un ton cognac, aux lignes nettes et à la coupe régulière. Le cuir offre une surface uniforme qui garde son aspect soigné toute la journée. Un compartiment zippé intérieur organise les documents et l'ordinateur portable de 14 pouces. Ce sac s'utilise au bureau ou lors d'un déplacement sans effort apparent. Il accompagne le quotidien avec une présence discrète et mesurée.",
+     "bullets": [
+      "Cuir couleur cognac, coupe régulière",
+      "Zippé à l'intérieur pour ordinateur",
+      "Usage professionnel et voyage"
+     ]
+    },
+    "seconds": 5.22
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Glitch Graphic Tee in Black",
+     "description": "A black tee features a large printed graphic on the back with dropped shoulders. The oversized cotton fit rests comfortably without constriction. Clean lines define the silhouette despite the bold design. It is worn casually during spring and summer days. The garment pairs well with tailored trousers or denim.",
+     "bullets": [
+      "Large back print, dropped shoulders",
+      "Oversized cotton fit",
+      "Casual wear for spring/summer"
+     ]
+    },
+    "seconds": 4.47
+   },
+   {
+    "copy": {
+     "title": "Glitch Graphic Tee in Black",
+     "description": "A black tee features a large printed graphic on the back with dropped shoulders. The oversized cotton fit rests comfortably without constriction. Clean lines define the silhouette despite the bold design. It is worn casually during spring and summer days. The garment pairs well with tailored trousers or other sturdy bottoms.",
+     "bullets": [
+      "Large back print, dropped shoulders",
+      "Oversized cotton fit",
+      "Casual wear for spring/summer"
+     ]
+    },
+    "seconds": 4.34
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Glitch Graphic Tee",
+     "description": "Una maglietta nera o verde acido con un grande stampato alla schiena e spalle cadute. Il cotone offre una vestibilità oversize che mantiene le linee pulite del corpo. Le maniche sono lunghe e il collo è semplice senza dettagli aggiuntivi. Indossala durante la primavera o l'estate per un look casual ordinato.",
+     "bullets": [
+      "Stampato grande alla schiena",
+      "Spalle cadute, vestibilità oversize",
+      "Cotone, colore nero o verde acido"
+     ]
+    },
+    "seconds": 5.19
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "T-shirt Glitch Graphique",
+     "description": "Une chemise noire ou vert acide avec un imprimé sur le dos et des épaules tombées. Le coton forme une coupe ample qui repose sans contrainte sur la silhouette. L'impression occupe l'arrière du vêtement, tandis que les coutures restent invisibles. Elle s'habille en journée lors de sorties décontractées au printemps ou en été. Cette pièce se porte seule pour un look sobre et moderne.",
+     "bullets": [
+      "Coton, coupe ample",
+      "Imprimé sur le dos",
+      "Épaules tombées"
+     ]
+    },
+    "seconds": 5.16
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Orange Puffer Jacket",
+     "description": "A solid orange jacket with a high collar and an oversized fit. The recycled nylon shell is finished with a narrow hem that packs neatly into its own pocket. Polyester padding fills the body for warmth without adding bulk. It suits casual outings or travel during autumn and winter.",
+     "bullets": [
+      "Recycled nylon shell",
+      "High collar, oversized fit",
+      "Packs into own pocket"
+     ]
+    },
+    "seconds": 4.34
+   },
+   {
+    "copy": {
+     "title": "Orange Puffer Jacket",
+     "description": "A solid orange jacket with a high collar and an oversized fit. The recycled nylon shell is finished with a narrow hem that packs neatly into its own pocket. Polyester padding fills the body for warmth without adding bulk. It suits casual outings or travel during autumn and winter.",
+     "bullets": [
+      "Recycled nylon shell",
+      "High collar, oversized fit",
+      "Packs into own pocket"
+     ]
+    },
+    "seconds": 4.13
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Giacca Orange Oversized",
+     "description": "Una giacca solida di colore arancione dal taglio oversize. La superficie è ricoperta da nylon rigenerato e riempita con poliestere, con una vestibilità ampia e curata. Il collo alto si alza per proteggere il viso mentre la giacca si ripiega in un solo taschino. È adatta per usi casual o durante i viaggi in autunno e inverno.",
+     "bullets": [
+      "Nylon rigenerato",
+      "Collo alto, taglio oversize",
+      "Si ripiega nel proprio taschino"
+     ]
+    },
+    "seconds": 5.42
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Puffer orange épuré",
+     "description": "Une veste orange aux lignes nettes, portée en automne ou hiver. Le tissu recyclé offre une coupe oversized soignée qui garde sa forme. Le col haut protège le visage sans alourdir l'ensemble. Elle se porte seule pour un look décontracté ou sous un manteau long.",
+     "bullets": [
+      "Tissu nylon recyclé",
+      "Coupe oversized, col haut",
+      "Se plie dans sa poche"
+     ]
+    },
+    "seconds": 4.71
+   },
+   {
+    "copy": {
+     "title": "Puffer orange épuré",
+     "description": "Une veste orange aux lignes nettes, portée en automne ou hiver. Le tissu recyclé offre une coupe oversized soignée qui garde sa forme. Le col haut protège le visage sans alourdir l'ensemble. Elle se porte seule pour un look décontracté ou sous un manteau long. Son volume discret assure confort et chaleur tout au long de la journée.",
+     "bullets": [
+      "Tissu nylon recyclé",
+      "Coupe oversized, col haut",
+      "Se plie dans sa poche"
+     ]
+    },
+    "seconds": 4.67
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Wide-Leg Cargo Jeans in Washed Blue",
+     "description": "These low-rise jeans feature a relaxed fit with a solid washed blue finish. The cotton denim offers a clean line that moves freely without restriction. Six pockets are positioned for utility, while the raw hem sits neatly at the ankle. They are suitable for casual occasions throughout all seasons.",
+     "bullets": [
+      "Low rise, six pockets, raw hem",
+      "Cotton denim with relaxed fit",
+      "Solid washed blue finish"
+     ]
+    },
+    "seconds": 4.56
+   },
+   {
+    "copy": {
+     "title": "Wide-Leg Cargo Jeans in Washed Blue",
+     "description": "These low-rise jeans feature a relaxed fit with a solid washed blue finish. The cotton denim offers a clean line that moves freely without restriction. Six pockets are positioned for utility, while the raw hem sits neatly at the ankle. They are suitable for casual occasions throughout all seasons. A considered cut ensures the garment remains structured yet comfortable from morning to evening.",
+     "bullets": [
+      "Low rise, six pockets, raw hem",
+      "Cotton denim with relaxed fit",
+      "Solid washed blue finish"
+     ]
+    },
+    "seconds": 4.61
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jeans cargo blu lavato",
+     "description": "Queste jeans presentano un taglio basso e una colorazione blu lavata uniforme. Il denim in cotone offre un fit rilassato che non stringa mai. Cinque tasche laterali sono visibili e il bordo è lasciato grezzo. Si indossano per ogni stagione, dal mattino alla sera. L'aspetto è pulito e discreto senza eccessi.",
+     "bullets": [
+      "Denim in cotone",
+      "Taglio basso, sei tasche",
+      "Bordo grezzo"
+     ]
+    },
+    "seconds": 5.18
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jeans cargo bleu lavé",
+     "description": "Un jean à taille basse en coton denim, couleur bleu lavé uni. La coupe relâchée offre une silhouette épurée avec six poches et un ourlet brut. Les lignes nettes restent soignées tout au long de la journée. Il s'habille seul pour des occasions décontractées en toutes saisons.",
+     "bullets": [
+      "Coton denim, coupe relâchée",
+      "Six poches, ourlet brut",
+      "Bleu lavé uni"
+     ]
+    },
+    "seconds": 4.97
+   },
+   {
+    "copy": {
+     "title": "Jeans cargo bleu lavé",
+     "description": "Un jean à taille basse en coton denim, couleur bleu lavé uni. La coupe relâchée offre une silhouette épurée avec six poches et un ourlet brut. Les lignes nettes restent soignées tout au long de la journée. Il s'habille seul pour des occasions décontractées en toutes saisons. Son rendu discret convient aux moments où l'on privilégie le confort sans renoncer au style.",
+     "bullets": [
+      "Coton denim, coupe relâchée",
+      "Six poches, ourlet brut",
+      "Bleu lavé uni"
+     ]
+    },
+    "seconds": 4.92
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Red Flannel Overshirt",
+     "description": "A checked flannel overshirt in red with chest pockets that sit open. The oversized fit rests comfortably on the shoulders and torso. Cotton flannel offers a soft texture without adding bulk to the silhouette. It works best when layered under a coat during autumn or winter. Wear it casually for work or weekend outings when the weather turns cool.",
+     "bullets": [
+      "Cotton flannel, checked pattern",
+      "Oversized fit, chest pockets",
+      "Worn open as a light jacket"
+     ]
+    },
+    "seconds": 5.18
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Flannel Overshirt Rosso Nero",
+     "description": "Un oversize con tasche al petto, disponibile in rosso e nero. Il cotone flannel ha un taglio ampio e una superficie morbida che non si ingrigisce facilmente. Le linee sono pulite senza ornamenti superflui. Si indossa aperto come giacca leggera o chiuso per mantenere caldo. È ideale per il casual di autunno e inverno.",
+     "bullets": [
+      "Cotone flannel a quadri",
+      "Taglio oversize, tasche al petto",
+      "Indossabile aperto o chiuso"
+     ]
+    },
+    "seconds": 5.3
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Flannel Overshirt rouge et noir",
+     "description": "Une chemise à carreaux portée ouverte comme une légère veste. Le corps est taillé large dans un coton flanelle doux. Des poches sur la poitrine ajoutent une touche fonctionnelle au vêtement. Idéale pour des moments décontractés en automne ou en hiver.",
+     "bullets": [
+      "Coton flanelle, coupe oversized",
+      "Poches de poitrine visibles",
+      "Portée ouverte comme veste"
+     ]
+    },
+    "seconds": 4.73
+   },
+   {
+    "copy": {
+     "title": "Flannel Overshirt rouge et noir",
+     "description": "Une chemise à carreaux portée ouverte comme une légère veste. Le corps est taillé large dans un coton flanelle doux. Des poches sur la poitrine ajoutent une touche fonctionnelle au vêtement. Il se porte décontracté en automne ou en hiver. Son tissu épais assure chaleur et confort sans effort.",
+     "bullets": [
+      "Coton flanelle, coupe oversized",
+      "Poches de poitrine visibles",
+      "Portée ouverte comme veste"
+     ]
+    },
+    "seconds": 4.46
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Platform Sneakers in White or Lilac",
+     "description": "These sneakers feature a solid finish in white or lilac with a regular fit. A 4 cm chunky sole is paired with a padded collar for comfort. The polyurethane and rubber construction ensures durability across all seasons. They are worn casually during daily errands or light outings. The design remains understated while offering practical elevation.",
+     "bullets": [
+      "4 cm chunky sole, padded collar",
+      "Polyurethane and rubber finish",
+      "Regular fit, solid colour"
+     ]
+    },
+    "seconds": 4.82
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Platform Sneakers Bianco e Lilla",
+     "description": "Queste sneakers presentano una suola massiccia di quattro centimetri con un collo imbottito. La punta è realizzata in polimeri rigidi mentre la base è avvolta da gomma resistente all'usura. Il profilo alto conferisce stabilità al passo senza appesantire il movimento. Si indossano comodamente per tutto l'anno, sia a piedi nudi che con calze sottili. Sono ideali per un abbigliamento quotidiano che mantiene una linea pulita.",
+     "bullets": [
+      "Suola massiccia da quattro centimetri",
+      "Collo imbottito in polimeri rigidi",
+      "Base avvolta da gomma resistente"
+     ]
+    },
+    "seconds": 5.85
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Platform Sneakers Blanc et Lilas",
+     "description": "Des baskets aux semelles épaisses de quatre centimètres, dans des tons blancs ou lilas solides. Le cuir polyuréthane offre une surface lisse tandis que la doublure rembourrée assure un port confortable. La forme générale reste régulière pour un ajustement naturel du pied. Elles s'adaptent à tous les jours, qu'il fasse beau ou froid. On les porte avec des jeans ou des pantalons larges pour un look décontracté.",
+     "bullets": [
+      "Semelle en polyuréthane de quatre centimètres",
+      "Coussinets rembourrés et forme régulière",
+      "Tons blancs et lilas, semelle épaisse"
+     ]
+    },
+    "seconds": 6.0
+   },
+   {
+    "copy": {
+     "title": "Platform Sneakers Blanc et Lilas",
+     "description": "Des baskets aux semelles épaisses de quatre centimètres, dans des tons blancs ou lilas solides. Le polyuréthane offre une surface lisse tandis que la doublure rembourrée assure un port confortable. La forme générale reste régulière pour un ajustement naturel du pied. Elles s'adaptent à tous les jours, qu'il fasse beau ou froid. On les porte avec des jeans ou des pantalons larges pour un look décontracté.",
+     "bullets": [
+      "Semelle en polyuréthane de quatre centimètres",
+      "Coussinets rembourrés et forme régulière",
+      "Tons blancs et lilas, semelle épaisse"
+     ]
+    },
+    "seconds": 5.41
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Striped Rib Cardigan in Pink and Cream",
+     "description": "A cropped cardigan features a striped pattern in pink and cream. The slim fit is constructed from wool and acrylic with oversized buttons. A narrow rib texture runs along the edges for structure. It can be worn alone during autumn or winter evenings. This piece works well for casual outings or evening wear.",
+     "bullets": [
+      "Wool and acrylic blend",
+      "Slim fit, cropped length",
+      "Oversized buttons, striped pattern"
+     ]
+    },
+    "seconds": 4.58
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cardigan a righe rosa e crema",
+     "description": "Un cardigan con lunghezza corta e bottoni di grandi dimensioni. La superficie è formata da un misto di lana e acrilico che mantiene una linea stretta. Il taglio slim definisce le spalle senza appesantire il busto. Si indossa in autunno o inverno, sia per occasioni informali che serali.",
+     "bullets": [
+      "Misto lana e acrilico",
+      "Lunghezza corta, bottoni grandi",
+      "Taglio slim, colore a righe"
+     ]
+    },
+    "seconds": 5.32
+   },
+   {
+    "copy": {
+     "title": "Cardigan a righe rosa e crema",
+     "description": "Un cardigan con lunghezza corta e bottoni di grandi dimensioni. La superficie è formata da un misto di lana e acrilico che mantiene una linea stretta. Il taglio slim definisce le spalle senza appesantire il busto. Si indossa in autunno o inverno, sia per occasioni informali che serali. Le righe verticali creano un effetto visivo pulito che va dal giorno alla sera.",
+     "bullets": [
+      "Misto lana e acrilico",
+      "Lunghezza corta, bottoni grandi",
+      "Taglio slim, colore a righe"
+     ]
+    },
+    "seconds": 5.09
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cardigan rayé en laine et acrylique",
+     "description": "Un cardigan coupé court avec des boutons surdimensionnés. La matière laine et acrylique forme une coupe slim qui garde sa silhouette. Les lignes rayées sont nettes sur la surface du vêtement. Il s'adapte aux soirées décontractées ou aux moments d'éveil en soirée. Ce modèle se porte seul ou sous un manteau automne hiver.",
+     "bullets": [
+      "Laine et acrylique",
+      "Coupe slim, boutons surdimensionnés",
+      "Longueur courte, motif rayé"
+     ]
+    },
+    "seconds": 5.44
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "maison-lumen",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Grey Melange Logo-Free Hoodie",
+     "description": "A relaxed hoodie in grey melange with a kangaroo pocket and brushed interior. The organic cotton and recycled polyester blend offers a soft, comfortable fit that holds its shape through all seasons. It features clean lines without any visible branding or logos. Worn alone for casual outings or layered under a coat for sporty days. This piece transitions easily from morning errands to evening wear.",
+     "bullets": [
+      "Organic cotton and recycled polyester",
+      "Brushed interior, kangaroo pocket",
+      "Relaxed fit, grey melange colour"
+     ]
+    },
+    "seconds": 4.92
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "maison-lumen",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Logo-Free Hoodie in Grey Melange",
+     "description": "Un hoodie con colore grigio melange e taglio rilassato. Il tessuto è composto da cotone organico e poliestere riciclato, con interno spazzolato per morbidezza. La cucitura presenta tasca a marsupio e finitura interna liscia. Si indossa in contesti casual o sportivi durante tutto l'anno.",
+     "bullets": [
+      "Tessuto cotone organico e poliestere riciclato",
+      "Interno spazzolato, tasca a marsupio",
+      "Taglio rilassato, adatto tutto l'anno"
+     ]
+    },
+    "seconds": 5.5
+   },
+   {
+    "copy": {
+     "title": "Logo-Free Hoodie in Grey Melange",
+     "description": "Un hoodie con colore grigio melange e taglio rilassato. Il tessuto è composto da cotone organico e poliestere riciclato, con interno spazzolato per morbidezza. La cucitura presenta tasca a marsupio e finitura interna liscia. Si indossa in contesti casual o sportivi durante tutto l'anno. La struttura mantiene le sue forme senza sforzo nel tempo.",
+     "bullets": [
+      "Tessuto cotone organico e poliestere riciclato",
+      "Interno spazzolato, tasca a marsupio",
+      "Taglio rilassato, adatto tutto l'anno"
+     ]
+    },
+    "seconds": 5.15
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "maison-lumen",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Hoodie gris mélangé sans logo",
+     "description": "Une hoodie en coton biologique et polyester recyclé dans un gris mélangé uni. Le tissu est doux à l'intérieur, avec une coupe large qui repose sur les hanches. Un poche kangourou complète le devant, tandis que l'intérieur est brossé pour plus de confort. Elle s'adapte aux saisons grâce à son épaisseur équilibrée. Portez-la seule en ville ou sous un manteau lors de la pratique sportive.",
+     "bullets": [
+      "Coton biologique et polyester recyclé",
+      "Coupe large, intérieur brossé",
+      "Poche kangourou, couleur gris mélangé"
+     ]
+    },
+    "seconds": 5.42
+   }
+  ]
+ }
+]

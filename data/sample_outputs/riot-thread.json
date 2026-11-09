@@ -1,0 +1,878 @@
+[
+ {
+  "sku": "ML-0001",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cashmere Crewneck Sweater",
+     "description": "Camel crewneck sweater with a fine-gauge knit that feels soft on you. Regular fit with ribbed cuffs and hem for structure. Wear it alone or layer it under an oversized shirt when the day gets colder. Perfect for work meetings or casual evenings in autumn and winter.",
+     "bullets": [
+      "Fine-gauge knit, ribbed cuffs",
+      "Regular fit, camel solid",
+      "Layer it or wear solo"
+     ]
+    },
+    "seconds": 4.76
+   }
+  ]
+ },
+ {
+  "sku": "ML-0001",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Crewneck Cashmere Camel",
+     "description": "Un maglione cashmere color crema con cuciture a coste. La vestibilità regolare è morbida ma non ingombrante. I manici e l'orlo sono finiti in tinta unita per un look pulito. Indossalo da lavoro o al casual durante autunno e inverno. Lascia che la texture calda sia il tuo punto di forza.",
+     "bullets": [
+      "Trama fitta e cuciture a coste",
+      "Vestibilità regolare e morbida",
+      "Perfetto per autunno e inverno"
+     ]
+    },
+    "seconds": 5.57
+   }
+  ]
+ },
+ {
+  "sku": "ML-0001",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cashmere Crewneck Camel",
+     "description": "Ce pull camel en cashmere fine se porte seul ou superposé pour une tenue audacieuse. La coupe régulière et les poignets côtelés assurent un confort immédiat. Son aspect uni le rend facile à associer avec n'importe quel bas. Idéal pour le travail ou le casual en automne et hiver.",
+     "bullets": [
+      "Cashmere fine, coupe régulière",
+      "Poignets et bas côtelés",
+      "Porte-le au bureau ou en sortant"
+     ]
+    },
+    "seconds": 5.07
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Ivory Silk Slip Dress",
+     "description": "This ivory slip dress has a slim fit with bias cut and thin straps. It flows smoothly down to a midi length for a sleek look. Wear it alone or layer it under an oversized blazer for extra coverage. Perfect for spring evenings or special ceremonies when you want to stand out. Let the silk move naturally as you walk.",
+     "bullets": [
+      "Slim fit, bias cut",
+      "Ivory solid silk",
+      "Evening and ceremony wear"
+     ]
+    },
+    "seconds": 4.72
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Gonna di seta ivory",
+     "description": "Questa gonna ivory ha una stampa solida e un taglio slim che si adatta perfettamente al corpo. Il tessuto di seta leggero offre una vestibilità morbida con spalline regolabili sottili. La lunghezza midi è perfetta per abbinarla a scarpe eleganti o stivaletti alti. Indossala la sera per uscire o durante una cerimonia in primavera ed estate. È audace ma rimane comodamente pratica.",
+     "bullets": [
+      "Tessuto di seta leggero",
+      "Spalline regolabili sottili",
+      "Taglio slim e lunghezza midi"
+     ]
+    },
+    "seconds": 5.49
+   },
+   {
+    "copy": {
+     "title": "Gonna di seta ivory",
+     "description": "Questa gonna ivory ha una stampa solida e un taglio slim che si adatta perfettamente al corpo. Il tessuto di seta leggero offre una vestibilità morbida con spalline regolabili sottili. La lunghezza midi è perfetta per abbinarla a scarpe audaci o stivaletti alti. Indossala la sera per uscire o durante una cerimonia in primavera ed estate. È audace ma rimane comodamente pratica.",
+     "bullets": [
+      "Tessuto di seta leggero",
+      "Spalline regolabili sottili",
+      "Taglio slim e lunghezza midi"
+     ]
+    },
+    "seconds": 4.91
+   }
+  ]
+ },
+ {
+  "sku": "ML-0002",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Robe de soirée en soie",
+     "description": "Une robe soie ivoire coupe biais qui tombe fluide sur le corps. Ses épaules ajustables et sa longueur mi-longue la rendent parfaite pour les soirées ou les cérémonies. Portez-la avec des talons hauts pour une allure audacieuse au printemps ou en été. Laissez-la s'ouvrir un peu pour garder l'air frais.",
+     "bullets": [
+      "Coupe biais fluide",
+      "Épaules ajustables",
+      "Idéale soirées"
+     ]
+    },
+    "seconds": 5.04
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tailored Charcoal Wool Trousers",
+     "description": "These charcoal trousers look sharp with a slim fit and flat front. Made from responsibly sourced wool that feels great against your skin. The pressed crease and side pockets add the perfect structured detail. Wear them to work when autumn weather hits. Layer them over a tee for an easy, bold street-style upgrade.",
+     "bullets": [
+      "Slim fit, charcoal solid",
+      "Responsibly sourced wool (RWS)",
+      "Perfect for work or layering"
+     ]
+    },
+    "seconds": 4.58
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Pantaloni velluto grigio",
+     "description": "Un look grigio scuro che fa colpo subito. La vestizia è stretta ma comoda al corpo. Il tessuto di lana virgin è morbido e ben stirato. Con le tasche laterali perfette per i tuoi oggetti essenziali. Indossali a lavoro o in autunno/inverno quando fa fresco.",
+     "bullets": [
+      "Lana virgin, taglio slim",
+      "Pantaloni piatti e pieghe",
+      "Perfetti per ufficio"
+     ]
+    },
+    "seconds": 5.16
+   }
+  ]
+ },
+ {
+  "sku": "ML-0003",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Pantalons Tailor Charcoal",
+     "description": "Un look noir et gris uni qui marie bien avec tout. La coupe slim en laine vierge est à superposer sans effort. Des détails plats, repassés et des poches latérales ajoutent du style. Idéals pour travailler l'automne ou l'hiver au bureau. Assure-toi de les porter avec une chemise ouverte.",
+     "bullets": [
+      "Coupe slim en laine vierge",
+      "Liséré plat et poches latérales",
+      "Parfait pour le travail"
+     ]
+    },
+    "seconds": 5.21
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "White Poplin Shirt",
+     "description": "This white shirt has a semi-spread collar and mother-of-pearl buttons. It is made from organic cotton with a regular fit that feels easy to wear. You can layer it under a jacket or wear it solo when the weather changes. Wear it for work or casual days in all seasons. The details make this piece stand out without trying too hard.",
+     "bullets": [
+      "Semi-spread collar",
+      "Mother-of-pearl buttons",
+      "Organic cotton fit"
+     ]
+    },
+    "seconds": 4.77
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Camicia bianca poplin",
+     "description": "Una camicia bianca con colletto semi-spaiato e bottoni madreperla. Fatta di cotone organico GOTS, la vestibilità è regolare ma comoda. Il look è pulito e audace per un outfit semplice. Indossala da lavoro o casual in tutte le stagioni. Perfetta da abbinare a pantaloni larghi o jeans.",
+     "bullets": [
+      "Colletto semi-spaiato",
+      "Cotone organico GOTS",
+      "Vestibilità regolare"
+     ]
+    },
+    "seconds": 5.33
+   }
+  ]
+ },
+ {
+  "sku": "ML-0004",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Chemise blanche poplin",
+     "description": "Une chemise blanche en coton bio avec un col semi-ouvert et des boutons perle. La coupe régulière s'adapte bien à ton style sans être trop large. C'est le look parfait pour travailler ou sortir en journée, tout au long de l'année. Associe-la à un jean délavé ou à une tenue audacieuse pour la superposer.",
+     "bullets": [
+      "Col semi-ouvert et boutons perle",
+      "Coton bio GOTS, coupe régulière",
+      "Idéal travail ou casual toute saison"
+     ]
+    },
+    "seconds": 5.17
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Sand Linen Wrap Skirt",
+     "description": "This sand wrap skirt has a relaxed fit that feels easy. The linen fabric breathes well for spring and summer days. A tie at the waist lets you adjust how it sits on your body. Wear it with sneakers for casual runs or pack it for travel. It's a simple piece that goes with almost anything.",
+     "bullets": [
+      "Relaxed linen fit",
+      "Adjustable tie waist",
+      "Perfect for spring/summer"
+     ]
+    },
+    "seconds": 4.61
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Gonna di lino color sabbia",
+     "description": "Una gonna wrap in lino color sabbia con un nodo alla vita. La vestibilità è rilassata e cade giù dolcemente fino sotto le ginocchia. Il tessuto leggero è perfetto per la stagione primaverile ed estiva. Indossala da sola per look casual o abbinala a camicie aperte quando fa fresco. È comoda per viaggiare e si adatta a tutte le tue idee di outfit.",
+     "bullets": [
+      "Lunghezza sotto le ginocchia",
+      "Nodo alla vita in lino",
+      "Vestibilità rilassata"
+     ]
+    },
+    "seconds": 5.32
+   }
+  ]
+ },
+ {
+  "sku": "ML-0005",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jupe de lin beige",
+     "description": "Une jupe beige solide avec une coupe décontractée en lin. Le devant se noue par un nœud à la taille pour un look facile. Elle tombe juste en dessous du genou sans trop de volume. Idéale pour des sorties décontractées ou des voyages d'été au printemps. Style-la avec un haut simple et des baskets larges.",
+     "bullets": [
+      "Coupe relâchée en lin",
+      "Nœud ajustable à la taille",
+      "Parfaite pour l'été"
+     ]
+    },
+    "seconds": 4.94
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Navy Double-Faced Coat",
+     "description": "This navy coat has a relaxed fit made from wool and cashmere. It features unlined construction with bound edges and concealed buttons. Wear it solo or layer it under an open shirt for extra warmth. Perfect for autumn and winter workdays or ceremonies. Keep your look bold with this easy piece.",
+     "bullets": [
+      "Relaxed wool and cashmere",
+      "Bound edges, concealed buttons",
+      "Layer for cold days"
+     ]
+    },
+    "seconds": 4.48
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cappotto Navy Audace",
+     "description": "Questo cappotto navy ha una vestibilità rilassata e un taglio audace. È fatto di lana e cashmere per un comfort avvolgente. I bordi legati e i bottoni nascosti danno un tocco unico. Indossalo al lavoro o a una cerimonia in autunno e inverno. Lo stila sopra un vestito o con jeans larghi.",
+     "bullets": [
+      "Lana e cashmere",
+      "Bordi legati e bottoni nascosti",
+      "Perfetto per lavoro e cerimonie"
+     ]
+    },
+    "seconds": 5.3
+   }
+  ]
+ },
+ {
+  "sku": "ML-0006",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Manteau bleu marine audacieux",
+     "description": "Ce manteau bleu marine en laine et cachemire a une coupe décontractée. Il est sans doublure avec des bords finis et des boutons dissimulés. Portez-le seul ou à superposer pour un look travaillé. Idéal pour le travail ou les cérémonies en automne et hiver.",
+     "bullets": [
+      "Coupe relâchée, matériaux nobles",
+      "Bords finis, boutons cachés",
+      "Pour travailler ou aux cérémonies"
+     ]
+    },
+    "seconds": 4.83
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cognac Structured Tote",
+     "description": "This cognac tote holds your laptop with style. The leather feels solid and fits just right. It has a clean look with an inner zip pocket for security. Carry it to work or pack it for travel trips. Wear it all season long without breaking a sweat.",
+     "bullets": [
+      "Cognac leather, regular fit",
+      "14-inch laptop space included",
+      "Zip pocket for essentials"
+     ]
+    },
+    "seconds": 4.61
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tote Cognac Structured",
+     "description": "Un tote cognac solido che regge il tuo laptop da 14 pollici con un taschino a zippers interno. La vestibilità è regolare e il materiale in cuoio dà forma alla borsa senza pesare. Porta questo look audace al lavoro o durante i viaggi, quando la stagione cambia. Lo stile classico ma moderno si adatta a ogni outfit casual o smart. È comodo da usare ogni giorno, sempre pronto per te.",
+     "bullets": [
+      "Vestibilità regolare in cuoio",
+      "Taschino zip per il laptop",
+      "Perfetto per lavoro e viaggi"
+     ]
+    },
+    "seconds": 5.43
+   },
+   {
+    "copy": {
+     "title": "Tote Cognac Structured",
+     "description": "Un tote cognac solido che regge il tuo laptop da 14 pollici con un taschino a zippers interno. La vestibilità è regolare e il materiale in cuoio dà forma alla borsa senza pesare. Porta questo look audace al lavoro o durante i viaggi, quando la stagione cambia. Lo stile moderno si adatta a ogni outfit casual o smart. È comodo da usare ogni giorno, sempre pronto per te.",
+     "bullets": [
+      "Vestibilità regolare in cuoio",
+      "Taschino zip per il laptop",
+      "Perfetto per lavoro e viaggi"
+     ]
+    },
+    "seconds": 4.94
+   }
+  ]
+ },
+ {
+  "sku": "ML-0007",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Tote cognac structuré",
+     "description": "Cette tote en cuir cognac porte tout sans effort. Sa coupe régulière tient confortablement ton ordinateur portable. L'intérieur est équipé d'une poche zippée pour ranger tes affaires. Elle s'adapte parfaitement à la journée de travail comme aux voyages. C'est un accessoire audacieux qui reste simple et fonctionnel.",
+     "bullets": [
+      "Cuir cognac solide",
+      "Tenue pour ordinateur",
+      "Idéale au travail"
+     ]
+    },
+    "seconds": 5.06
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Glitch Graphic Tee",
+     "description": "This oversized black tee features a loud acid green print on the back. Made from soft cotton with dropped shoulders and a loose fit that hangs easy. The big graphic hits hard when you step out for casual days in spring or summer. Throw it over your usual clothes to layer up or wear it solo for maximum impact. It's your go-to piece that never fails to turn heads.",
+     "bullets": [
+      "Oversized cotton fit",
+      "Acid green back print",
+      "Perfect for casual layers"
+     ]
+    },
+    "seconds": 4.73
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Glitch Tee Nero e Verde Acido",
+     "description": "Questa maglietta ha un grande stampaggio posteriore su fondo nero o verde acido. La vestibilità è oversized con spalle cadute per un look audace. Il cotone è morbido e comodo da indossare tutto il giorno. Indossala sola o sotto una felpa quando fa fresco in primavera ed estate. Perfetta per outfit casual che vuoi fare tu stesso.",
+     "bullets": [
+      "Stampaggio grande sul retro",
+      "Spalle cadute, vestibilità oversized",
+      "Cotone, comodo per stagione calda"
+     ]
+    },
+    "seconds": 5.24
+   }
+  ]
+ },
+ {
+  "sku": "RT-0001",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "T-shirt Glitch Graphique",
+     "description": "Un t-shirt noir ou vert acide avec un grand motif imprimé sur le dos et des épaules tombées. La coupe oversize en coton est faite pour être portée toute la journée sans effort. Associe-le à une tenue décontractée pour les sorties d'été. Il se porte seul ou sous une autre pièce si le temps baisse.",
+     "bullets": [
+      "Motif imprimé sur le dos",
+      "Coupe oversize en coton",
+      "Idéal pour le printemps"
+     ]
+    },
+    "seconds": 5.1
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Orange Oversized Puffer",
+     "description": "Wear this bright orange jacket with a relaxed vibe. The oversized fit comes from recycled nylon and polyester padding. It packs into its own pocket and features a high collar for extra warmth. Wear it casually in autumn or winter when the weather turns cold. Throw it on over a hoodie while you travel or explore the city.",
+     "bullets": [
+      "Oversized fit, bright orange",
+      "Recycled nylon shell",
+      "Packs into its own pocket"
+     ]
+    },
+    "seconds": 4.63
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Giacca Puffer Arancione",
+     "description": "Questa giacca puffer arancione ha un look audace e solido. Realizzata in nylon riciclato con imbottitura comoda, la vestibilità oversized la rende perfetta per tutti i giorni. I dettagli come il collo alto e lo zaino integrato sono pensati per durare. Indossala casual o mentre viaggi d'inverno. È l'outfit che ti serve per ogni stagione.",
+     "bullets": [
+      "Nylon riciclato, vestibilità oversized",
+      "Collo alto e zaino integrato",
+      "Perfetta per casual e viaggio"
+     ]
+    },
+    "seconds": 5.54
+   }
+  ]
+ },
+ {
+  "sku": "RT-0002",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Manteau puffer orange audacieux",
+     "description": "Ce manteau orange uni a une coupe oversize qui tombe bien sur toi. Il est fait de nylon recyclé avec du remplissage polyester pour garder la chaleur. Le col haut et le fait qu'il se cache dans sa poche sont des détails pratiques. Porte-le en automne ou hiver pour sortir, voyager ou rester à la maison. C'est une tenue facile à porter qui ne te lâche jamais.",
+     "bullets": [
+      "Nylon recyclé et coupe oversize",
+      "Col haut et sacochette intégrée",
+      "Ideal pour l'automne et l'hiver"
+     ]
+    },
+    "seconds": 5.46
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Washed Blue Wide-Leg Cargo",
+     "description": "This washed blue jean has a relaxed fit that feels easy to wear. The cotton denim is soft but holds its shape well. You'll love the low rise, six pockets, and raw hem details. Wear it all season long for any casual outing you plan. Style it with an oversized tee and chunky sneakers for maximum street cred.",
+     "bullets": [
+      "Low rise fit",
+      "Six pockets total",
+      "Raw hem finish"
+     ]
+    },
+    "seconds": 4.58
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jeans cargo blu lavati",
+     "description": "Un paio di jeans cargo blu lavati dal basso in su con una vestibilità rilassata. Il cotone denim è morbido e comodo per tutto il giorno. La linea bassa si abbina perfettamente a un top oversize o a una camicia aperta. Indossali da casual ogni stagione, dai giorni freddi al caldo estivo. È l'outfit perfetto per lo street style che ami.",
+     "bullets": [
+      "Linea bassa e vestibilità rilassata",
+      "Sei tasche disponibili",
+      "Adatto a tutte le stagioni"
+     ]
+    },
+    "seconds": 5.4
+   }
+  ]
+ },
+ {
+  "sku": "RT-0003",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Jean cargo bleu lavé",
+     "description": "Une coupe large en denim bleu lavé qui tombe bien sur toi. La matière est douce et la coupe relâchée pour un confort total. Six poches prêtes à accueillir tout ce que tu veux porter. Le bas brut ajoute une touche d'audace simple au look. Idéale pour un style casual toute la saison.",
+     "bullets": [
+      "Coupe large et bas brut",
+      "Six poches fonctionnelles",
+      "Porte-la en tenue unique ou à superposer"
+     ]
+    },
+    "seconds": 4.93
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Red Flannel Overshirt",
+     "description": "Wear this red flannel with a checked pattern for that bold street look. The oversized cotton fit hangs loose and feels great against your skin. It features chest pockets you can use to stash essentials or wear open as a jacket. Throw it over a tee when the autumn air gets colder. This piece is perfect for casual days out in winter.",
+     "bullets": [
+      "Oversized fit, red checked pattern",
+      "Chest pockets to keep things handy",
+      "Wear open or layer up"
+     ]
+    },
+    "seconds": 4.88
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Flannel Overshirt Rosso Nero",
+     "description": "Vestibilità oversized con un look audace a quadri rossi e neri. Realizzato in cotton flannel morbido per una vestibilità comoda che non stringe. I due colori sono perfetti da abbinare tra loro o separatamente. Indossalo come giacca leggera aperta nei giorni freddi di autunno e inverno. Perfetto per un outfit casual senza sforzo.",
+     "bullets": [
+      "Cotton flannel morbido",
+      "Colori rosso e nero a quadri",
+      "Porta aperto come giacca"
+     ]
+    },
+    "seconds": 5.34
+   }
+  ]
+ },
+ {
+  "sku": "RT-0004",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Flannel Overshirt Rouge Noir",
+     "description": "Une chemise en flanelle rouge et noire avec une coupe très large. Le motif carré ajoute un détail audacieux qui se voit de loin. Tu peux la porter ouverte comme veste légère ou fermée pour plus de chaleur. Idéale pour le quotidien en automne ou en hiver. Associe-la à un jean délavé et des baskets épaisses.",
+     "bullets": [
+      "Coupe oversized très large",
+      "Motif carré rouge et noir",
+      "Porte-la ouverte ou fermée"
+     ]
+    },
+    "seconds": 5.25
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Lilac Chunky Platform Sneakers",
+     "description": "These lilac sneakers feature a solid look and a 4cm chunky sole. Made from polyurethane with a padded collar for comfort, they fit true to size. Wear them all seasons for that easy street style vibe. Pair them with loose jeans or layer over shorts for casual days out.",
+     "bullets": [
+      "Solid lilac colour",
+      "4cm chunky sole",
+      "All-season wear"
+     ]
+    },
+    "seconds": 4.53
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Platform Sneakers Bianco e Lilla",
+     "description": "Queste sneakers bianche e lilla hanno suole massicce da quattro centimetri. La vestibilità è regolare e il collo è imbottito per il massimo comfort. Il design solido è audace e perfetto per un look street. Indossale tutto l'anno, siano le giornate calde o fredde. Abbinale a jeans larghi o pantaloni cargo per un outfit casual che non passa inosservato.",
+     "bullets": [
+      "Suola chunky da 4 cm",
+      "Collo imbottito e vestibilità regolare",
+      "Perfette per ogni stagione"
+     ]
+    },
+    "seconds": 5.55
+   }
+  ]
+ },
+ {
+  "sku": "RT-0005",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Baskets Platform Lilas",
+     "description": "Des baskets blanches ou lilas avec une semelle épaisse de 4 cm. Le col rembourré et la coupe régulière les rendent confortables pour marcher. La semelle en caoutchouc offre un bon grip sur tous les sols. Portez-les toute l'année pour des looks décalés et audacieux. Associez-les à une tenue casual simple pour sortir sans effort.",
+     "bullets": [
+      "Semelle épaisse de 4 cm",
+      "Col rembourré et coupe régulière",
+      "Parfait pour tout le temps"
+     ]
+    },
+    "seconds": 5.23
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Pink Cream Striped Cardigan",
+     "description": "This pink and cream striped cardigan has a cropped fit with oversized buttons. Made from acrylic and wool, it feels soft against your skin. The slim cut sits perfectly on your frame without feeling tight. Wear it as an outer layer for chilly autumn evenings or toss it over a tee for casual nights out. It's the easy go-to piece you'll reach for all season long.",
+     "bullets": [
+      "Pink and cream stripes",
+      "Slim fit with oversized buttons",
+      "Perfect for autumn evenings"
+     ]
+    },
+    "seconds": 4.83
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cardigan Pink e Crema",
+     "description": "Un cardigan a righe rosa e crema con un taglio slim che abbraccia il corpo. Il tessuto di lana e acrilico è morbido ma tiene caldo. I bottoni oversize sono la nota audace che tutti notano subito. Indossalo da casual o per la sera in autunno e inverno. Perfetto come base per outfit informali o più eleganti.",
+     "bullets": [
+      "Croptop con bottoni grandi",
+      "Materiale lana e acrilico",
+      "Ideal per autunno/inverno"
+     ]
+    },
+    "seconds": 5.18
+   },
+   {
+    "copy": {
+     "title": "Cardigan Pink e Crema",
+     "description": "Un cardigan a righe rosa e crema con un taglio slim che abbraccia il corpo. Il tessuto di lana e acrilico è morbido ma tiene caldo. I bottoni oversize sono la nota audace che tutti notano subito. Indossalo da casual o per la sera in autunno e inverno. Perfetto come base per outfit informali o più curati.",
+     "bullets": [
+      "Croptop con bottoni grandi",
+      "Materiale lana e acrilico",
+      "Ideal per autunno/inverno"
+     ]
+    },
+    "seconds": 4.75
+   }
+  ]
+ },
+ {
+  "sku": "RT-0006",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Cardigan rayé rose crème",
+     "description": "Ce cardigan coupe courte arbore des rayures audacieuses en rose et crème. La coupe slim s'adapte parfaitement à ton corps grâce au mélange laine et acrylique. Les boutons oversize ajoutent une touche de détail qui fait toute la différence. Laisse-le ouvert pour un look casual ou fermé pour le soir. Idéal l'automne et l'hiver, il se porte seul ou sous une veste.",
+     "bullets": [
+      "Coupe slim et coupe courte",
+      "Boutons oversizés",
+      "Laine et acrylique"
+     ]
+    },
+    "seconds": 5.18
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "riot-thread",
+  "lang": "en",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Logo-Free Grey Melange Hoodie",
+     "description": "This grey melange hoodie has a relaxed fit that hangs easy on you. It's made from organic cotton and recycled polyester for better comfort. The brushed inside feels soft against your skin while the kangaroo pocket sits deep. Wear it solo or layer it under an open shirt for cold days. It works great for casual outings or sporty runs all season long.",
+     "bullets": [
+      "Relaxed fit, solid grey",
+      "Brushed inside, kangaroo pocket",
+      "Layer or wear alone"
+     ]
+    },
+    "seconds": 4.81
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "riot-thread",
+  "lang": "it",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Logo-Free Hoodie Grey Melange",
+     "description": "Un hoodie grigio melange con tasca a canguro e interno felpato. La vestibilità rilassata cade bene su qualsiasi corpo. I colori neutri si abbinano a tutto senza sforzo. Indossalo per uscire o allenarti in ogni stagione dell'anno. È comodo ma non ti fa sembrare un adulto.",
+     "bullets": [
+      "Cotonico riciclato e felpato",
+      "Tasca a canguro e interno morbido",
+      "Perfetto per casual e sport"
+     ]
+    },
+    "seconds": 5.22
+   }
+  ]
+ },
+ {
+  "sku": "RT-0007",
+  "brand": "riot-thread",
+  "lang": "fr",
+  "model": "qwen3.5:4b",
+  "attempts": [
+   {
+    "copy": {
+     "title": "Hoodie gris sans logo",
+     "description": "Cet hoodie gris melange est simple et audacieux dans sa coupe relâchée. Il est fait de coton biologique et de polyester recyclé, doux au toucher à l'intérieur. Le poche kangourou et le revers brossé sont des détails discrets mais pratiques. Portez-le en casual ou pour le sport tout au long de l'année. C'est une tenue facile à associer qui vous va bien.",
+     "bullets": [
+      "Coton bio et polyester recyclé",
+      "Poche kangourou et revers brossé",
+      "Coupe relâchée, coupe universelle"
+     ]
+    },
+    "seconds": 5.46
+   }
+  ]
+ }
+]
