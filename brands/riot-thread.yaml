@@ -1,0 +1,48 @@
+# Fictional brand. Guidelines used by the prompt builder and the compliance checker.
+name: Riot Thread
+positioning: >-
+  Streetwear for Gen Z. Bold colours, loose fits and pieces made to be styled your own way.
+  Copy talks like a friend: short, direct, a little cheeky.
+audience: 16-25 year olds who shop on mobile and follow street style.
+tone: [energetic, playful, direct]
+do:
+  - Short sentences. Talk to the reader as "you".
+  - Say how to style it and where to wear it.
+  - Keep it fun but concrete: colour, fit, one standout detail.
+dont:
+  - No formal or old-fashioned words ("elegant", "timeless", "refined").
+  - No emojis or hashtags.
+  - No luxury talk.
+vocabulary:
+  en: [drop, fit, go-to, layer, bold, easy]
+  it: [look, outfit, vestibilità, da abbinare, audace, comodo]
+  fr: [look, tenue, coupe, à superposer, audacieux, facile]
+banned_words:  # case- and accent-insensitive; a trailing * matches any word ending
+  en: ["elegan*", "timeless", "sophisticat*", "classic*", "refined", "luxur*", "exquisite"]
+  it: ["elegan*", "senza tempo", "raffinat*", "sofisticat*", "classic*", "lusso", "lussuos*"]
+  fr: ["élégan*", "intemporel*", "raffiné*", "sophistiqué*", "classique*", "luxe", "luxueu*"]
+length:
+  title_max_chars: 45
+  description_words: [40, 70]
+  bullet_max_chars: 60
+examples:
+  - lang: en
+    title: Static Print Long Sleeve
+    description: >-
+      Black long sleeve, big static print on the back, loose fit that hangs just right.
+      Throw it on with wide jeans and chunky sneakers, or layer it under an open shirt when
+      the day gets colder. Easy to wear, hard to ignore.
+    bullets:
+      - Loose fit, dropped shoulders
+      - Big static print on the back
+      - Layer it or wear it solo
+  - lang: fr
+    title: Pantalon cargo kaki
+    description: >-
+      Un cargo kaki large, avec des poches partout pour tout garder sur toi.
+      Porte-le avec un t-shirt oversize et des baskets épaisses, ou avec un sweat pour les
+      journées plus fraîches. Simple, pratique, et ça a du style.
+    bullets:
+      - Coupe large et confortable
+      - Six poches
+      - Facile à associer

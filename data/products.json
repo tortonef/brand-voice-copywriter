@@ -1,0 +1,351 @@
+[
+  {
+    "sku": "ML-0001",
+    "name": "Cashmere Crewneck Sweater",
+    "brand": "Maison Lumen",
+    "category": "knitwear",
+    "gender": "women",
+    "colors": [
+      "camel"
+    ],
+    "materials": [
+      "cashmere"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 290,
+    "sustainability_attrs": [],
+    "description": "Fine-gauge knit with ribbed cuffs and hem.",
+    "image": null
+  },
+  {
+    "sku": "ML-0002",
+    "name": "Silk Slip Dress",
+    "brand": "Maison Lumen",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "silk"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "evening",
+      "ceremony"
+    ],
+    "season": "SS",
+    "price_eur": 420,
+    "sustainability_attrs": [],
+    "description": "Bias cut, thin adjustable straps, midi length.",
+    "image": null
+  },
+  {
+    "sku": "ML-0003",
+    "name": "Tailored Wool Trousers",
+    "brand": "Maison Lumen",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "charcoal"
+    ],
+    "materials": [
+      "virgin wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work"
+    ],
+    "season": "AW",
+    "price_eur": 260,
+    "sustainability_attrs": [
+      "responsibly sourced wool (RWS certified)"
+    ],
+    "description": "Flat front, pressed crease, side pockets.",
+    "image": null
+  },
+  {
+    "sku": "ML-0004",
+    "name": "Poplin Shirt",
+    "brand": "Maison Lumen",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "white"
+    ],
+    "materials": [
+      "organic cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 150,
+    "sustainability_attrs": [
+      "organic cotton (GOTS certified)"
+    ],
+    "description": "Semi-spread collar, mother-of-pearl buttons.",
+    "image": null
+  },
+  {
+    "sku": "ML-0005",
+    "name": "Linen Wrap Skirt",
+    "brand": "Maison Lumen",
+    "category": "skirt",
+    "gender": "women",
+    "colors": [
+      "sand"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 190,
+    "sustainability_attrs": [],
+    "description": "Wrap front with a tie at the waist, below-the-knee length.",
+    "image": null
+  },
+  {
+    "sku": "ML-0006",
+    "name": "Double-Faced Coat",
+    "brand": "Maison Lumen",
+    "category": "outerwear",
+    "gender": "women",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "wool",
+      "cashmere"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "work",
+      "ceremony"
+    ],
+    "season": "AW",
+    "price_eur": 690,
+    "sustainability_attrs": [],
+    "description": "Unlined, bound edges, concealed buttons.",
+    "image": null
+  },
+  {
+    "sku": "ML-0007",
+    "name": "Structured Tote",
+    "brand": "Maison Lumen",
+    "category": "bag",
+    "gender": "unisex",
+    "colors": [
+      "cognac"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 380,
+    "sustainability_attrs": [],
+    "description": "Fits a 14-inch laptop; inner zip pocket.",
+    "image": null
+  },
+  {
+    "sku": "RT-0001",
+    "name": "Glitch Graphic Tee",
+    "brand": "Riot Thread",
+    "category": "top",
+    "gender": "unisex",
+    "colors": [
+      "black",
+      "acid green"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "printed",
+    "fit": "oversized",
+    "occasions": [
+      "casual"
+    ],
+    "season": "SS",
+    "price_eur": 35,
+    "sustainability_attrs": [],
+    "description": "Large back print, dropped shoulders.",
+    "image": null
+  },
+  {
+    "sku": "RT-0002",
+    "name": "Puffer Jacket",
+    "brand": "Riot Thread",
+    "category": "outerwear",
+    "gender": "unisex",
+    "colors": [
+      "orange"
+    ],
+    "materials": [
+      "recycled nylon",
+      "polyester padding"
+    ],
+    "pattern": "solid",
+    "fit": "oversized",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "AW",
+    "price_eur": 129,
+    "sustainability_attrs": [
+      "recycled nylon shell"
+    ],
+    "description": "Packs into its own pocket; high collar.",
+    "image": null
+  },
+  {
+    "sku": "RT-0003",
+    "name": "Wide-Leg Cargo Jeans",
+    "brand": "Riot Thread",
+    "category": "jeans",
+    "gender": "women",
+    "colors": [
+      "washed blue"
+    ],
+    "materials": [
+      "cotton denim"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 79,
+    "sustainability_attrs": [],
+    "description": "Low rise, six pockets, raw hem.",
+    "image": null
+  },
+  {
+    "sku": "RT-0004",
+    "name": "Flannel Overshirt",
+    "brand": "Riot Thread",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "red",
+      "black"
+    ],
+    "materials": [
+      "cotton flannel"
+    ],
+    "pattern": "checked",
+    "fit": "oversized",
+    "occasions": [
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Chest pockets, can be worn open as a light jacket.",
+    "image": null
+  },
+  {
+    "sku": "RT-0005",
+    "name": "Platform Sneakers",
+    "brand": "Riot Thread",
+    "category": "shoes",
+    "gender": "unisex",
+    "colors": [
+      "white",
+      "lilac"
+    ],
+    "materials": [
+      "polyurethane",
+      "rubber"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "4 cm chunky sole, padded collar.",
+    "image": null
+  },
+  {
+    "sku": "RT-0006",
+    "name": "Striped Rib Cardigan",
+    "brand": "Riot Thread",
+    "category": "knitwear",
+    "gender": "women",
+    "colors": [
+      "pink",
+      "cream"
+    ],
+    "materials": [
+      "acrylic",
+      "wool"
+    ],
+    "pattern": "striped",
+    "fit": "slim",
+    "occasions": [
+      "casual",
+      "evening"
+    ],
+    "season": "AW",
+    "price_eur": 55,
+    "sustainability_attrs": [],
+    "description": "Cropped length, oversized buttons.",
+    "image": null
+  },
+  {
+    "sku": "RT-0007",
+    "name": "Logo-Free Hoodie",
+    "brand": "Riot Thread",
+    "category": "top",
+    "gender": "unisex",
+    "colors": [
+      "grey melange"
+    ],
+    "materials": [
+      "organic cotton",
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "season": "all-season",
+    "price_eur": 69,
+    "sustainability_attrs": [
+      "organic cotton",
+      "recycled polyester"
+    ],
+    "description": "Kangaroo pocket, brushed inside.",
+    "image": null
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/genai-fashion-portfolio/schema/product.schema.json",
+  "title": "Product",
+  "description": "Shared product record used by fashion-catalog-enrichment, brand-voice-copywriter and ai-stylist-rag.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "sku", "name", "brand", "category", "gender", "colors", "materials", "pattern", "fit",
+    "occasions", "season", "price_eur", "sustainability_attrs", "description", "image"
+  ],
+  "properties": {
+    "sku": {"type": "string", "pattern": "^[A-Z]{2,5}-[0-9]{4}$", "description": "Prefix + number, e.g. AN-0012"},
+    "name": {"type": ["string", "null"], "description": "Null when it cannot be inferred (e.g. from a photo)"},
+    "brand": {"type": ["string", "null"], "description": "Fictional brand; null when unknown"},
+    "category": {
+      "enum": ["top", "shirt", "knitwear", "dress", "skirt", "trousers", "jeans", "outerwear", "shoes", "bag", "accessory"]
+    },
+    "gender": {"enum": ["women", "men", "unisex"]},
+    "colors": {"type": "array", "items": {"type": "string"}},
+    "materials": {"type": "array", "items": {"type": "string"}},
+    "pattern": {"type": "string"},
+    "fit": {"type": "string"},
+    "occasions": {
+      "type": "array",
+      "items": {"enum": ["casual", "work", "evening", "ceremony", "sport", "travel"]},
+      "uniqueItems": true
+    },
+    "season": {"enum": ["SS", "AW", "all-season"]},
+    "price_eur": {"type": ["number", "null"], "minimum": 0},
+    "sustainability_attrs": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "The ONLY source that can justify a sustainability claim; empty if none"
+    },
+    "description": {"type": ["string", "null"]},
+    "image": {"type": ["string", "null"], "description": "Relative path"}
+  }
+}

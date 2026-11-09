@@ -1,0 +1,49 @@
+# Fictional brand. Guidelines used by the prompt builder and the compliance checker.
+name: Maison Lumen
+positioning: >-
+  Quiet luxury for people who prefer fewer, better pieces. Minimal design, precise tailoring,
+  materials described plainly. The product speaks; the copy never shouts.
+audience: Professionals aged 30-55 who buy few pieces per season and keep them for years.
+tone: [quiet, precise, timeless]
+do:
+  - Describe material, cut and how the piece is worn, in calm, complete sentences.
+  - Prefer concrete details (collar, length, finish) over adjectives.
+  - Use understatement; let one detail carry the text.
+dont:
+  - No exclamation marks, no emojis, no slang.
+  - No hype, urgency or price talk ("must-have", "sale", "limited").
+  - Never use the word "luxury": the brand shows it, it does not say it.
+vocabulary:
+  en: [considered, understated, measured, enduring, fine, clean lines]
+  it: [essenziale, misurato, discreto, curato, linee pulite]
+  fr: [épuré, discret, mesuré, soigné, lignes nettes]
+banned_words:  # case- and accent-insensitive; a trailing * matches any word ending
+  en: ["luxur*", "cheap*", "bargain*", "must-have", "trendy", "amazing", "awesome", "deal*", "hurry"]
+  it: ["lusso", "lussuos*", "economic*", "affare", "imperdibil*", "di tendenza", "trendy", "pazzesc*"]
+  fr: ["luxe", "luxueu*", "pas cher", "bon marché", "incontournable*", "tendance*", "génial*", "trendy"]
+length:
+  title_max_chars: 60
+  description_words: [60, 90]
+  bullet_max_chars: 80
+examples:
+  - lang: en
+    title: Merino Rollneck in Ash
+    description: >-
+      A rollneck knitted in fine merino, with a close collar that sits neatly under a coat.
+      The body falls straight to the hip; cuffs and hem are finished in a narrow rib.
+      Worn alone with tailored trousers, or layered under a blazer on colder days, it keeps a
+      clean line from morning to evening.
+    bullets:
+      - Fine merino knit
+      - Close rollneck collar, straight body
+      - Narrow rib at cuffs and hem
+  - lang: it
+    title: Camicia in popeline bianca
+    description: >-
+      Una camicia dal taglio regolare, con collo francese e polsini ad angolo smussato.
+      Il popeline ha una superficie liscia e asciutta che resta ordinata per tutta la giornata.
+      Si porta da sola con un pantalone sartoriale o sotto una giacca, sempre con discrezione.
+    bullets:
+      - Popeline di cotone
+      - Collo francese, polsini smussati
+      - Vestibilità regolare
