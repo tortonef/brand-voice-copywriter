@@ -217,7 +217,8 @@ def check_claims(copy: dict, product: dict, lang: str, lexicon: dict) -> list[Fi
                             "claims",
                             "fail",
                             f'Material "{hit}" is not in the product materials '
-                            f"({', '.join(product.get('materials') or []) or 'none'}).",
+                            f"({', '.join(product.get('materials') or []) or 'none'}). "
+                            "Remove it, also from styling tips.",
                             name,
                             m.span(),
                             hit,

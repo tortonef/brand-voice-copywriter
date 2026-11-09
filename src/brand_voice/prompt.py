@@ -81,9 +81,8 @@ Rules:
 4. title: at most {title_max} characters.
    description: exactly {rules["description_sentences"]} full sentences, at least {lo} and at most {hi} words in total.
    Sentence plan: 1) the look and colour; 2) material and fit; 3) the details in "description";
-   the remaining sentences: when and how to wear it (occasions, season) and what to pair it with.
-   When you suggest what to pair it with, name garment types and colours, never materials
-   (say "wide jeans", not "denim").
+   the remaining sentences: when and how to wear it (occasions, season).
+   Do not name any material that is not in "materials", not even for other garments.
    bullets: exactly 3, each at most {rules["bullet_max_chars"]} characters.
 Answer with JSON only: {{"title": ..., "description": ..., "bullets": [..., ..., ...]}}."""
 
