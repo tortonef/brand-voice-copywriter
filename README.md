@@ -18,6 +18,8 @@ Give it a product record and a brand's guidelines, and a small open model runnin
 Every text then goes through **plain, deterministic rules**: length, the brand's banned words, the right language, and claims such as "organic", "made in Italy" or "waterproof" that the product record does not back up. A failing text gets one automatic rewrite; what still fails is flagged for the reviewer.
 On the 84 sample texts, **82 pass every rule after that rewrite** (68 on the first try), at about 6 seconds per text.
 
+<p align="center"><img src="docs/assets/screenshot-side-by-side.png" alt="Side by side: the same silk slip dress written by Maison Lumen and Riot Thread, each with pass badges for length, banned words, claims and language" width="100%"></p>
+
 ## The business problem
 
 Every new SKU needs a title, a description and bullets, in every language the store sells in, every season. Writing and translating them is slow, it competes with every other launch task, and the tone drifts between in-house writers, agencies and translators.
@@ -99,9 +101,14 @@ The app opens at <http://localhost:8501>. Without Ollama, setup still completes 
 
 ## Using it
 
-1. **Side by side.** Pick a product and a language: the same record is written in both brand voices. Each text shows a pass / warning / fail badge per rule, the offending words are highlighted (hover for the reason), and claims backed by the record are listed. When the first draft failed, the original attempt and its problems sit in an expander under the final text.
+1. **Side by side** (screenshot above). Pick a product and a language: the same record is written in both brand voices. Each text shows a pass / warning / fail badge per rule, the offending words are highlighted (hover for the reason), and claims backed by the record are listed. When the first draft failed, the original attempt and its problems sit in an expander under the final text.
 2. **Checker demo.** Hand-written texts with deliberate violations: "100% cashmere" and "Made in Italy" on a product whose record says neither, an off-brand word, a wrong language, and a clean control text whose "organic, GOTS certified" claims are backed. No model involved.
-3. **Batch and export.** Run every product × brand × language, see how many passed, and download the texts with their rule results as CSV (opens in Excel) or JSON.
+
+<p align="center"><img src="docs/assets/screenshot-checker.png" alt="Checker demo: a sweater text with luxury, handmade, 100% cashmere, sustainable and Made in Italy highlighted as failures" width="100%"></p>
+
+3. **Batch and export.** Run every product × brand × language, see how many passed, and download the texts with their rule results as CSV (opens in Excel) or JSON. The screenshot shows a separate live run, so its counts (83/84 passing, 15 rewrites) differ slightly from the evaluation below: the model's output varies between runs.
+
+<p align="center"><img src="docs/assets/screenshot-batch.png" alt="Batch and export: 84 texts, 83 compliant, 15 revised automatically, with a table of rule results per text" width="100%"></p>
 
 The two fictional brands are deliberately far apart:
 

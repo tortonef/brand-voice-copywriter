@@ -1,6 +1,6 @@
 # Credits
 
-This repo contains no third-party images, photos or text.
+This repo contains no third-party images, photos or text. Screenshots in `docs/assets/` are of this app.
 
 - **Brands:** Maison Lumen and Riot Thread are fictional. Any resemblance to real brands is unintended.
 - **Products, brand guidelines, claim lexicon and seeded examples:** written for this demo by the author,
