@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <!-- Shared portfolio banner layout. Per repo, change only: the accent color (#3D5A80), eyebrow number,
+       title, tagline lines and the motif group on the right. -->
+  <title id="title">Brand Voice Copywriter</title>
+  <desc id="desc">Generate on-brand product copy in English, Italian and French from structured product data, and automatically check every text against brand rules and unsupported claims, 100% locally.</desc>
+  <style>
+    .font { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    .ink { fill: #1F1B24; }
+    .accent { fill: #3D5A80; }
+  </style>
+
+  <!-- Opaque background: legible in both GitHub light and dark mode -->
+  <rect width="1280" height="320" fill="#F6F1E9"/>
+  <rect width="10" height="320" class="accent"/>
+
+  <!-- Text block -->
+  <text x="72" y="92" class="font accent" font-size="15" font-weight="600" letter-spacing="3">GENAI FOR FASHION · 02 / 03</text>
+  <text x="72" y="152" class="font ink" font-size="52" font-weight="700">Brand Voice Copywriter</text>
+  <g class="font ink" font-size="20" fill-opacity="0.78">
+    <text x="72" y="204">Generate on-brand product copy in English, Italian and French</text>
+    <text x="72" y="232">from structured product data, and check every text against</text>
+    <text x="72" y="260">brand rules and unsupported claims, 100% locally.</text>
+  </g>
+
+  <!-- Motif: one product record -> two brand voices; each text is checked, one claim is flagged -->
+  <g transform="translate(840 50)">
+    <rect width="190" height="220" rx="14" fill="#FFFFFF" stroke="#1F1B24" stroke-opacity="0.12" stroke-width="2"/>
+    <text x="22" y="40" class="font accent" font-size="18" font-weight="700">{ }</text>
+    <g class="ink">
+      <rect x="22" y="62" width="44" height="8" rx="4" fill-opacity="0.35"/>
+      <rect x="78" y="62" width="88" height="8" rx="4" fill-opacity="0.12"/>
+      <rect x="22" y="92" width="36" height="8" rx="4" fill-opacity="0.35"/>
+      <rect x="70" y="92" width="72" height="8" rx="4" fill-opacity="0.12"/>
+      <rect x="22" y="122" width="52" height="8" rx="4" fill-opacity="0.35"/>
+      <rect x="86" y="122" width="62" height="8" rx="4" fill-opacity="0.12"/>
+      <rect x="22" y="152" width="40" height="8" rx="4" fill-opacity="0.35"/>
+      <rect x="74" y="152" width="80" height="8" rx="4" fill-opacity="0.12"/>
+      <rect x="22" y="182" width="48" height="8" rx="4" fill-opacity="0.35"/>
+      <rect x="82" y="182" width="56" height="8" rx="4" fill-opacity="0.12"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#3D5A80" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1042 160 H1068"/>
+    <path d="M1060 151 L1069 160 L1060 169"/>
+  </g>
+  <g transform="translate(1082 50)">
+    <!-- Voice A: compliant -->
+    <rect width="150" height="100" rx="12" fill="#FFFFFF" stroke="#1F1B24" stroke-opacity="0.12" stroke-width="2"/>
+    <rect x="16" y="20" width="84" height="10" rx="5" class="ink" fill-opacity="0.6"/>
+    <rect x="16" y="44" width="118" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+    <rect x="16" y="60" width="106" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+    <rect x="16" y="76" width="72" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+    <circle cx="128" cy="25" r="11" class="accent"/>
+    <path d="M122 25 L126.5 29.5 L134 21" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Voice B: one claim flagged for review -->
+    <g transform="translate(0 120)">
+      <rect width="150" height="100" rx="12" fill="#FFFFFF" stroke="#1F1B24" stroke-opacity="0.12" stroke-width="2"/>
+      <rect x="16" y="20" width="64" height="10" rx="5" class="ink" fill-opacity="0.6"/>
+      <rect x="16" y="44" width="40" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+      <rect x="60" y="40" width="50" height="15" rx="4" fill="#F6F1E9" stroke="#3D5A80" stroke-width="2" stroke-dasharray="5 4"/>
+      <rect x="64" y="44" width="42" height="7" rx="3.5" class="accent" fill-opacity="0.55"/>
+      <rect x="16" y="60" width="112" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+      <rect x="16" y="76" width="88" height="7" rx="3.5" class="ink" fill-opacity="0.15"/>
+      <circle cx="128" cy="25" r="11" fill="#F6F1E9" stroke="#3D5A80" stroke-width="2"/>
+      <rect x="126.75" y="18" width="2.5" height="9" rx="1.25" class="accent"/>
+      <circle cx="128" cy="31" r="1.6" class="accent"/>
+    </g>
+  </g>
+</svg>
