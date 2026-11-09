@@ -1,0 +1,54 @@
+[
+  {
+    "id": "lumen-claims",
+    "label": "Maison Lumen sweater with invented claims",
+    "sku": "ML-0001",
+    "brand": "maison-lumen",
+    "lang": "en",
+    "copy": {
+      "title": "Luxury Cashmere Sweater, Handmade",
+      "description": "Our most luxurious knit: 100% cashmere, handmade by artisans who care about the planet. This sustainable, eco-friendly sweater has a fine-gauge knit with ribbed cuffs and hem, and a regular fit that works from the office to the weekend. A must-have for the season.",
+      "bullets": ["100% cashmere", "Made in Italy", "Ribbed cuffs and hem"]
+    },
+    "expect": {"length": "fail", "banned_words": "fail", "claims": "fail", "language": "pass"}
+  },
+  {
+    "id": "riot-off-brand",
+    "label": "Riot Thread puffer: off-brand word, performance claim, wrong material, two bullets",
+    "sku": "RT-0002",
+    "brand": "riot-thread",
+    "lang": "it",
+    "copy": {
+      "title": "Piumino elegante arancione, impermeabile",
+      "description": "Il piumino che ti serve per l'inverno: arancione, oversize e caldissimo. Il guscio in nylon riciclato è impermeabile e l'imbottitura in piuma d'oca ti tiene al caldo ovunque. Si chiude nella sua tasca, quindi lo porti in viaggio senza pensieri. Abbinalo a jeans larghi e sneakers chunky per un look audace.",
+      "bullets": ["Guscio in nylon riciclato", "Imbottitura in piuma d'oca"]
+    },
+    "expect": {"length": "fail", "banned_words": "fail", "claims": "fail", "language": "pass"}
+  },
+  {
+    "id": "riot-wrong-language",
+    "label": "Riot Thread overshirt requested in French, written in English",
+    "sku": "RT-0004",
+    "brand": "riot-thread",
+    "lang": "fr",
+    "copy": {
+      "title": "Red Check Flannel Overshirt",
+      "description": "Big red and black checks, an oversized fit and two chest pockets. Wear it buttoned up as a shirt, or open over a hoodie as a light jacket when it gets colder. Soft cotton flannel that is made for layering all autumn and winter long, with jeans or cargos.",
+      "bullets": ["Oversized fit", "Two chest pockets", "Wear it open or closed"]
+    },
+    "expect": {"length": "pass", "banned_words": "pass", "claims": "pass", "language": "fail"}
+  },
+  {
+    "id": "lumen-clean",
+    "label": "Control: Maison Lumen shirt with claims backed by the record",
+    "sku": "ML-0004",
+    "brand": "maison-lumen",
+    "lang": "it",
+    "copy": {
+      "title": "Camicia in popeline bianca",
+      "description": "Una camicia bianca dal taglio regolare, con collo semi-francese e bottoni in madreperla. Il popeline di cotone biologico certificato GOTS ha una superficie liscia e asciutta che resta ordinata dal mattino alla sera. Si porta con un pantalone sartoriale in ufficio, oppure aperta su una maglia leggera nei fine settimana più tranquilli, sempre con discrezione e linee pulite che non passano di moda.",
+      "bullets": ["Popeline di cotone biologico certificato GOTS", "Collo semi-francese, bottoni in madreperla", "Vestibilità regolare"]
+    },
+    "expect": {"length": "pass", "banned_words": "pass", "claims": "pass", "language": "pass"}
+  }
+]

@@ -1,0 +1,128 @@
+# Risky-claim lexicon used by the deterministic checker.
+#
+# patterns: regular expressions per language, matched as whole words against the text after
+#           lowercasing and removing accents (so write them without accents).
+# evidence: which product-record fields can back the claim, and which terms must appear there.
+#           null = the shared product schema has no field that can back it, so it always fails.
+#           any_of: ["*"] = any non-empty value in those fields is enough.
+#           any_of: ["$match"] = the matched text itself must appear in those fields (e.g. "100% cotton").
+# severity: status when the claim is NOT backed (fail or warning).
+# if_supported: status when it IS backed (default pass). Generic eco wording stays a warning even
+#           when backed, because it is vaguer than the specific attribute it rests on.
+#
+# This list helps flag common risks; it is not exhaustive and it is not legal advice.
+
+claims:
+  - id: generic_eco
+    label: Generic sustainability claim
+    severity: fail
+    if_supported: warning
+    hint: Name the specific attribute from the record instead of a general eco claim.
+    evidence: {fields: [sustainability_attrs], any_of: ["*"]}
+    patterns:
+      en: ['sustainab\w*', 'eco[- ]?friendly', 'eco[- ]?conscious', 'environmentally friendly', 'planet[- ]friendly', 'green(er)? choice', 'responsibl[ey]\w*', 'ethical\w*', 'conscious\w*']
+      it: ['sostenibil\w*', 'ecologic\w*', 'eco[- ]?friendly', 'ecosostenibil\w*', "rispettos\\w* dell'ambiente", 'amic\w* dell[ae]? ?(ambiente|pianeta)', 'etic[oaie]', 'consapevol\w*']
+      fr: ['durables?', 'ecologiques?', 'eco[- ]?responsables?', "respectueu\\w* de l'environnement", 'ethiques?', 'responsables?']
+
+  - id: organic
+    label: Organic
+    severity: fail
+    hint: Only say organic when the record lists an organic material.
+    evidence: {fields: [materials, sustainability_attrs], any_of: [organic]}
+    patterns:
+      en: ['organic\w*']
+      it: ['biologic\w*', 'bio']
+      fr: ['biologiques?', 'bio']
+
+  - id: recycled
+    label: Recycled
+    severity: fail
+    hint: Only say recycled when the record lists a recycled material.
+    evidence: {fields: [materials, sustainability_attrs], any_of: [recycled]}
+    patterns:
+      en: ['recycled', 'upcycled']
+      it: ['riciclat\w*']
+      fr: ['recycle\w*']
+
+  - id: certification
+    label: Certification
+    severity: fail
+    hint: Certifications must be listed in sustainability_attrs.
+    evidence: {fields: [sustainability_attrs], any_of: [certified]}
+    patterns:
+      en: ['certified', 'certification', 'gots', 'rws', 'oeko[- ]?tex', 'fsc']
+      it: ['certificat\w*', 'certificazion\w*', 'gots', 'rws', 'oeko[- ]?tex', 'fsc']
+      fr: ['certifie\w*', 'certification', 'gots', 'rws', 'oeko[- ]?tex', 'fsc']
+
+  - id: climate
+    label: Climate claim
+    severity: fail
+    hint: The product record has no emissions data.
+    evidence: null
+    patterns:
+      en: ['carbon[- ]neutral', 'climate[- ]neutral', 'net[- ]zero', 'zero[- ]emissions?', 'low[- ]impact', 'zero[- ]waste']
+      it: ['a impatto zero', 'basso impatto', 'neutral\w* (climatic|carbonic)\w*', 'zero emissioni', 'carbon neutral', 'zero sprechi']
+      fr: ['neutre en carbone', 'neutralite carbone', 'zero emissions?', 'faible impact', 'zero dechet']
+
+  - id: origin
+    label: Origin claim
+    severity: fail
+    hint: The product record has no country of origin.
+    evidence: null
+    patterns:
+      en: ['made in \w+', '(italian|french|british|portuguese|spanish)[- ]made', '(crafted|produced|manufactured) in \w+']
+      it: ['made in \w+', '(prodott|fatt|realizzat|confezionat)\w* in (italia|francia|portogallo|spagna)']
+      fr: ['made in \w+', '(fabrique|confectionne|produit)\w* en (france|italie|portugal|espagne)']
+
+  - id: handmade
+    label: Handmade / artisanal
+    severity: fail
+    hint: The product record does not say the piece is handmade.
+    evidence: null
+    patterns:
+      en: ['hand[- ]?made', 'hand[- ]?crafted', 'hand[- ]?finished', 'hand[- ]?stitched', 'artisan\w*']
+      it: ['(fatt|cucit|rifinit|lavorat)\w* a mano', 'artigian\w*']
+      fr: ['(fait|cousu|fini)\w* (a la )?main', 'artisan\w*']
+
+  - id: performance
+    label: Performance claim
+    severity: fail
+    hint: The product record has no technical test data.
+    evidence: null
+    patterns:
+      en: ['water[- ]?proof', 'water[- ]?resistant', 'water[- ]?repellent', 'wind[- ]?proof', 'stain[- ]?resistant', 'anti[- ]?bacterial', 'hypoallergenic', 'uv[- ]protection']
+      it: ['impermeabil\w*', 'idrorepellent\w*', 'antivento', 'antimacchia', 'antibatteric\w*', 'ipoallergenic\w*']
+      fr: ['impermeables?', 'deperlant\w*', 'coupe[- ]vent', 'anti[- ]?taches?', 'antibacterien\w*', 'hypoallergeniques?']
+
+  - id: comfort_performance
+    label: Soft performance claim
+    severity: warning
+    hint: Plausible for the material, but not stated in the record.
+    evidence: null
+    patterns:
+      en: ['breathable', 'thermo\w*', 'moisture[- ]wicking', 'wrinkle[- ]free', 'crease[- ]resistant']
+      it: ['traspirant\w*', 'termic\w*', 'antipiega', 'ingualcibil\w*']
+      fr: ['respirant\w*', 'thermique\w*', 'infroissable\w*']
+
+  - id: percentage
+    label: Percentage
+    severity: fail
+    hint: Percentages must appear exactly in the record.
+    evidence: {fields: [materials, sustainability_attrs], any_of: ["$match"]}
+    patterns:
+      en: ['\d+(?:[.,]\d+)? ?(?:%|percent|per cent)']
+      it: ['\d+(?:[.,]\d+)? ?(?:%|per ?cento)']
+      fr: ['\d+(?:[.,]\d+)? ?(?:%|pour ?cent)']
+
+# Material words. A mention passes only if the canonical material appears in the record's `materials`.
+materials:
+  cashmere: {en: ['cashmere'], it: ['cashmere', 'cachemire'], fr: ['cachemire', 'cashmere']}
+  silk: {en: ['silk\w*'], it: ['seta'], fr: ['soie']}
+  wool: {en: ['wool\w*', 'merino'], it: ['lana', 'merino'], fr: ['laine', 'merinos?']}
+  linen: {en: ['linen'], it: ['lino'], fr: ['lin']}
+  cotton: {en: ['cotton'], it: ['cotone'], fr: ['coton']}
+  leather: {en: ['leather'], it: ['cuoio', '(in|di) pelle'], fr: ['cuir']}
+  denim: {en: ['denim'], it: ['denim'], fr: ['denim']}
+  nylon: {en: ['nylon'], it: ['nylon'], fr: ['nylon']}
+  polyester: {en: ['polyester'], it: ['poliestere'], fr: ['polyester']}
+  down: {en: ['goose down', 'duck down', 'down[- ]filled'], it: ['piumino d.oca', 'piuma d.oca', 'imbottitura in piuma'], fr: ["duvet d.oie", 'duvet de canard']}
