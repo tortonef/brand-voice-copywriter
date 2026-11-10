@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <!-- Shared portfolio banner layout. Per repo, change only: the accent color (#3D5A80), eyebrow number,
+  <!-- Shared portfolio banner layout. Per repo, change only: the accent color (#3D5A80),
        title, tagline lines and the motif group on the right. -->
   <title id="title">Brand Voice Copywriter</title>
   <desc id="desc">Generate on-brand product copy in English, Italian and French from structured product data, and automatically check every text against brand rules and unsupported claims, 100% locally.</desc>
@@ -14,12 +14,11 @@
   <rect width="10" height="320" class="accent"/>
 
   <!-- Text block -->
-  <text x="72" y="92" class="font accent" font-size="15" font-weight="600" letter-spacing="3">GENAI FOR FASHION · 02 / 03</text>
-  <text x="72" y="152" class="font ink" font-size="52" font-weight="700">Brand Voice Copywriter</text>
+  <text x="72" y="125" class="font ink" font-size="52" font-weight="700">Brand Voice Copywriter</text>
   <g class="font ink" font-size="20" fill-opacity="0.78">
-    <text x="72" y="204">Generate on-brand product copy in English, Italian and French</text>
-    <text x="72" y="232">from structured product data, and check every text against</text>
-    <text x="72" y="260">brand rules and unsupported claims, 100% locally.</text>
+    <text x="72" y="177">Generate on-brand product copy in English, Italian and French</text>
+    <text x="72" y="205">from structured product data, and check every text against</text>
+    <text x="72" y="233">brand rules and unsupported claims, 100% locally.</text>
   </g>
 
   <!-- Motif: one product record -> two brand voices; each text is checked, one claim is flagged -->
